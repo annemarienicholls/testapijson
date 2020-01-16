@@ -1,7 +1,1 @@
-{
-  "results": [
-    {
-      "response_id": "abc1234"
-     }
-   ]
-}
+{"results": [{"response_id": "abc1234"}]}
